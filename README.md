@@ -1,2 +1,2 @@
 # Covid-Vaccinations
-Tracking Greece's vaccination process by state
+Tracking Greece's vaccination progress 
