@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Tychala_Panagiota_18162_AndroidJan21"
